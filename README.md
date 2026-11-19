@@ -2,8 +2,8 @@
 
 **Integrantes do Grupo:**
 * Mateus Felipe Curtale Serafim - 571129
-* Vinicius Sanches Chiarle -
-* Gabrieli de Lima Pettena -
+* Vinicius Sanches Chiarle - 568846  
+* Gabrieli de Lima Pettena - 569799
 
 ## Estrutura do Projeto
 
